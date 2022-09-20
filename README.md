@@ -1,7 +1,7 @@
 # Headphone Purple Razer Kraken BT
 
 ![](./img/screenshot.png)
-
+## [Cique Aqui](https://monteiro77.github.io/site-purple-headfone/) para acessar o site
 ---
 ## Sobre 
 Site do tipo landing page para divulgar o Headphone purple Razer Kraken BT.
